@@ -1,6 +1,6 @@
-// PROBLEM STATEMENT:  Climate Change and Variability in adaptive agriculture and food security
+# PROBLEM STATEMENT:  Climate Change and Variability in adaptive agriculture and food security
 
-SOLUTION:A tool that helps farmers integrate agroforestry practices into their land use plans. The system should recommend suitable tree species and placement to improve soil fertility, provide shade, and sequester carbon.
+# SOLUTION:A tool that helps farmers integrate agroforestry practices into their land use plans. The system should recommend suitable tree species and placement to improve soil fertility, provide shade, and sequester carbon.
 
 import random
 
